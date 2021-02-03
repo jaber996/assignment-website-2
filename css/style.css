@@ -1,0 +1,69 @@
+.text-size{
+    color: orange;
+    font-size: 50px;
+}
+.text-size span{
+    color: navy;
+}
+.btn-color{
+    background-color: olivedrab;
+    border: 0;
+   
+}
+.product-prize{
+    color: orange;
+}
+.whoman-jacekt{
+    font-size: 30px;
+    padding: 20px 0px 20px 0px;
+}
+.card-images{
+    width: 300px;
+    padding: 20px;
+}
+
+.card-border {
+    border: 0;
+}
+.card-background{
+    background-color:#f6f1f1;
+    border-radius: 15px;
+    padding: 30px;   
+    margin-right: auto;
+    
+    
+
+}
+.PENGUINS{
+    padding-top: 100px;
+}
+.Man-Jacket{
+    padding-top: 100px;
+}
+
+.card-main-border{
+    border: 0;   
+}
+
+.card-background img{
+    width: 230px;
+    height: 270px;    
+}
+.last-content{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.last-icon{
+    height: 90px;
+    padding-right: 30px;
+}
+.XMLID-image{
+    height: 330px;
+    width: 550px;
+}
+.mrge{
+    padding-bottom: 20px;
+}
+.text-footer{
+    text-decoration: none;
+}
